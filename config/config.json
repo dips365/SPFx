@@ -9,10 +9,19 @@
           "manifest": "./src/webparts/stockInformation/StockInformationWebPart.manifest.json"
         }
       ]
+    },
+    "custom-property-pane-sample-web-part": {
+      "components": [
+        {
+          "entrypoint": "./lib/webparts/customPropertyPaneSample/CustomPropertyPaneSampleWebPart.js",
+          "manifest": "./src/webparts/customPropertyPaneSample/CustomPropertyPaneSampleWebPart.manifest.json"
+        }
+      ]
     }
   },
   "externals": {},
   "localizedResources": {
     "StockInformationWebPartStrings": "lib/webparts/stockInformation/loc/{locale}.js",
+    "CustomPropertyPaneSampleWebPartStrings": "lib/webparts/customPropertyPaneSample/loc/{locale}.js"
   }
 }

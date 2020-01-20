@@ -13,6 +13,6 @@
   },
   "externals": {},
   "localizedResources": {
-    "StockInformationWebPartStrings": "lib/webparts/stockInformation/loc/{locale}.js"
+    "StockInformationWebPartStrings": "lib/webparts/stockInformation/loc/{locale}.js",
   }
 }

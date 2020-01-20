@@ -8,7 +8,8 @@ import {
   PropertyPaneLink,
   PropertyPaneSlider,
   PropertyPaneToggle,
-  PropertyPaneDropdown
+  PropertyPaneDropdown,
+  PropertyPaneDynamicField
 } from '@microsoft/sp-webpart-base';
 import { escape } from '@microsoft/sp-lodash-subset';
 
